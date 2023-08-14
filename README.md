@@ -1,5 +1,7 @@
 # terraform-aws-rosa-sts-roles
 
+> **IMPORTANT**  This repository is deprecated and archived.  Please visit [https://registry.terraform.io/namespaces/terraform-redhat](https://registry.terraform.io/namespaces/terraform-redhat) for the Official RH Terraform providers and modules.
+
 Create rosa account roles and policies
 
 In order to deploy [ROSA](https://docs.openshift.com/rosa/welcome/index.html) with [STS](https://docs.openshift.com/rosa/rosa_planning/rosa-sts-aws-prereqs.html). 
